@@ -1,0 +1,8 @@
+.nav-style{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-style > Link {
+    text-decoration: none;
+}

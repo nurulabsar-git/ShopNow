@@ -1,0 +1,14 @@
+.footer-part{
+display: flex;
+justify-content: space-around;
+margin: 150px 8px 40px 8px;
+}
+
+.footer-text > li>a{
+    text-decoration: none;
+    color: black;
+    font-size: smaller;
+}
+.footer-text> li{
+    list-style: none;
+}
